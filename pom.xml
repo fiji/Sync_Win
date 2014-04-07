@@ -30,6 +30,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Sync_Win</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Sync_Win</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Sync_Win</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
