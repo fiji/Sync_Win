@@ -30,6 +30,11 @@
 		</dependency>
 	</dependencies>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/Sync_Win/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Sync_Win</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Sync_Win</developerConnection>
