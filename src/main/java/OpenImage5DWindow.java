@@ -1,8 +1,10 @@
-import java.awt.*;
-import java.awt.event.*;
+import i5d.Image5D;
+import i5d.gui.Image5DCanvas;
+import i5d.gui.Image5DWindow;
 
-import i5d.*;
-import i5d.gui.*;
+import java.awt.Image;
+import java.awt.event.AdjustmentEvent;
+import java.awt.event.MouseWheelEvent;
 
 
 /* -------------------------------------------------------------------------

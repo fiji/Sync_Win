@@ -1,5 +1,7 @@
-import ij.*;
-import ij.gui.*;
+import ij.ImagePlus;
+import ij.gui.ImageCanvas;
+import ij.gui.ImageWindow;
+import ij.gui.StackWindow;
 
 /*
  * Created on 08.07.2005

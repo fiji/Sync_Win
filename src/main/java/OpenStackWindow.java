@@ -1,9 +1,10 @@
-import java.awt.*;
+import ij.ImagePlus;
+import ij.gui.ImageCanvas;
+import ij.gui.StackWindow;
+
+import java.awt.Image;
 import java.awt.event.AdjustmentEvent;
 import java.awt.event.MouseWheelEvent;
-
-import ij.*;
-import ij.gui.*;
 
 /* -------------------------------------------------------------------------
 /*

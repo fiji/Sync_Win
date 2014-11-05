@@ -1,8 +1,10 @@
-import ij.*;
-import ij.gui.*;
-
-import i5d.*;
-import i5d.gui.*;
+import i5d.Image5D;
+import i5d.gui.Image5DCanvas;
+import i5d.gui.Image5DWindow;
+import ij.ImagePlus;
+import ij.gui.ImageCanvas;
+import ij.gui.ImageWindow;
+import ij.gui.StackWindow;
 
 /*
  * Created on 08.07.2005
