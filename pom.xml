@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>Sync_Win</artifactId>
-	<version>1.7-fiji3-SNAPSHOT</version>
+	<version>1.7-fiji4-SNAPSHOT</version>
 
 	<name>plugins/Sync_Win.jar</name>
 	<description />
