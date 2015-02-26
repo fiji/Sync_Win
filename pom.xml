@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>Sync_Win</artifactId>
-	<version>1.7-fiji3-SNAPSHOT</version>
+	<version>1.7-fiji3</version>
 
 	<name>plugins/Sync_Win.jar</name>
 	<description />
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Sync_Win</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Sync_Win</developerConnection>
-		<tag>HEAD</tag>
+		<tag>Sync_Win-1.7-fiji3</tag>
 		<url>https://github.com/fiji/Sync_Win</url>
 	</scm>
 	<ciManagement>
