@@ -1,6 +1,6 @@
-import i5d.Image5D;
-import i5d.gui.Image5DCanvas;
-import i5d.gui.Image5DWindow;
+import sc.fiji.i5d.Image5D;
+import sc.fiji.i5d.gui.Image5DCanvas;
+import sc.fiji.i5d.gui.Image5DWindow;
 import ij.ImagePlus;
 import ij.gui.ImageCanvas;
 import ij.gui.ImageWindow;
