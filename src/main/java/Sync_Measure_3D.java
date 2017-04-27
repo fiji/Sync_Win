@@ -67,13 +67,13 @@ With the PlugIn one can measure
 
 Installation instructions:
 Place Sync_Win.jar into the ImageJ plugins directory or a subdirectory and restart ImageJ. 
-Sync Windows and Sync Measure 3D can be found under the menu entry Analyze>Tools.
+Sync Windows and Sync Measure 3D can be found under the menu entry Analyze&gt;Tools.
 
 
 Usage instructions:
 - Load the data, each color channel as a separate 8-bit grayscale stack.
 
-- Run Sync_Measure_3D (Analyze>Tools>Sync Measure 3D).
+- Run Sync_Measure_3D (Analyze&gt;Tools&gt;Sync Measure 3D).
 
 - Synchronize the windows, in which you want to measure by selecting them in the
   window list.
@@ -1113,7 +1113,7 @@ To make it work with 16-bit and 32-bit images two things have to be done:
 		"Usage:\n" +
 		"- Load the data, each color channel as a separate 8- or 16-bit grayscale stack.\n \n"+
 		
-		"- Run Sync_Measure_3D. (Analyze>Tools>Sync Measure 3D)\n \n"+
+		"- Run Sync_Measure_3D. (Analyze&gt;Tools&gt;Sync Measure 3D)\n \n"+
 		
 		"- Synchronize the windows, in which you want to measure by selecting them in the\n"+
 		"    window list.\n \n"+

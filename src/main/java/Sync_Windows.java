@@ -76,8 +76,8 @@ import java.util.Vector;
 <p>
 	Works with Image5DWindows
 
-@author Patrick Kelly <phkelly@ucsd.edu>;
-Improved GUI, support of image coordinates and z-slices by Joachim Walter <correspondence@walter-witzenhausen.de>
+@author Patrick Kelly (phkelly@ucsd.edu);
+Improved GUI, support of image coordinates and z-slices by Joachim Walter (correspondence@walter-witzenhausen.de)
 
 */
 
