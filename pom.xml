@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>Sync_Win</artifactId>
-	<version>1.7-fiji4-SNAPSHOT</version>
+	<version>1.7-fiji4</version>
 
 	<name>Sync Win</name>
 	<description>Sync Win plugin for Fiji.</description>
@@ -69,7 +69,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Sync_Win</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Sync_Win</developerConnection>
-		<tag>HEAD</tag>
+		<tag>Sync_Win-1.7-fiji4</tag>
 		<url>https://github.com/fiji/Sync_Win</url>
 	</scm>
 	<issueManagement>
