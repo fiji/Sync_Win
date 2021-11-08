@@ -67,7 +67,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/Sync_Win</connection>
+		<connection>scm:git:https://github.com/fiji/Sync_Win</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Sync_Win</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/Sync_Win</url>
